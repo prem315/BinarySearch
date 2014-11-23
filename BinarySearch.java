@@ -28,7 +28,7 @@ public class BinarySearch {
         //BinarySearch s = new BinarySearch();
          int target = 6;
          int[] a = {3,4,7,6,1,9,12,10};
-         System.out.println("Array before Sorted:");
+         System.out.println("Array before Sorting:");
          for(int i=0; i<a.length ; i++){
              System.out.println(a[i]);
          }
