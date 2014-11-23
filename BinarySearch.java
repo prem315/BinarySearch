@@ -1,15 +1,6 @@
 
 import java.util.Arrays;
 
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/**
- *
- * @author Prem
- */
 public class BinarySearch {
     //private BinarySearch(){
      //   
